@@ -1,0 +1,10 @@
+jupyterlab==3.4.6
+matplotlib==3.5.3
+numpy==1.23.2
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
+pandas==1.4.4
+sklearn-pandas==2.2.0
+tensorflow==2.10.0
+keras==2.10.0
